@@ -18,7 +18,7 @@
 ## 👥 Team Members
 <div align="center">
 
-| <img src="https://github.com/prashant-mishra-22.png" width="100" height="100"> | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="100" height="100"> | <img src="https://via.placeholder.com/100/32CD32/FFFFFF?text=R" width="100" height="100"> | <img src="https://via.placeholder.com/100/FF6347/FFFFFF?text=S" width="100" height="100"> |
+| <img src="https://github.com/prashant-mishra-22.png" width="100" height="100"> | <img src="https://www.linkedin.com/in/prateek-badola-ba5217291/" width="100" height="100"> | <img src="https://via.placeholder.com/100/32CD32/FFFFFF?text=R" width="100" height="100"> | <img src="https://via.placeholder.com/100/FF6347/FFFFFF?text=S" width="100" height="100"> |
 |:---:|:---:|:---:|:---:|
 | **Prashant Kumar Mishra** | **Prateek Badola** | **Raj Sharma** | **Sparsh Verma** |
 | [@prashant-mishra-22](https://github.com/prashant-mishra-22) | [LinkedIn](https://linkedin.com/in/prateekbadola) | [LinkedIn](https://linkedin.com/in/rajsharma) | [LinkedIn](https://linkedin.com/in/sparshverma) |

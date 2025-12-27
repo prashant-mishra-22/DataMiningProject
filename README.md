@@ -18,7 +18,7 @@
 ## 👥 Team Members
 <div align="center">
 
-| <img src="https://github.com/prashant-mishra-22.png" width="100" height="100"> | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="100" height="100"> | <img src="https://media.licdn.com/dms/image/v2/D5603AQHRQw0K6RyvYA/profile-displayphoto-scale_400_400/B56ZrYGj2oG0Ag-/0/1764562196347?e=1768435200&v=beta&t=3xlXb1VaDf48uQIEHgOCmin5Goz81OwuHWJlWJsTSwM" width="100" height="100"> | <img src="data:image/png;base64,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" width="100" height="100"> |
+| <img src="https://github.com/prashant-mishra-22.png" width="100" height="100"> | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="100" height="100"> | <img src="https://media.licdn.com/dms/image/v2/D5603AQHRQw0K6RyvYA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1764562196347?e=1768435200&v=beta&t=3xlXb1VaDf48uQIEHgOCmin5Goz81OwuHWJlWJsTSwM" width="100" height="100"> | <img src="data:image/png;base64,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" width="100" height="100"> |
 |:---:|:---:|:---:|:---:|
 | **Prashant Kumar Mishra** | **Prateek Badola** | **Raj Sharma** | **Sparsh Verma** |
 | [Linkdien](https://www.linkedin.com/in/prashant-mishra-nitp/) | [LinkedIn](https://www.linkedin.com/in/prateek-badola-ba5217291/) | [LinkedIn](https://www.linkedin.com/in/thefstack/) | [LinkedIn](https://linkedin.com/in/) |
@@ -48,7 +48,7 @@
 <div align="center">
 
 | **Category** | **Technologies** | **Purpose** |
-|--------------|-----------------|-------------|
+|:---:|:---:|:---:|
 | **Core Language** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Primary development language |
 | **Data Processing** | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) | Data manipulation & analysis |
 | **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) | Model implementation & evaluation |
@@ -63,11 +63,58 @@
 ### 🔧 Machine Learning Models Implemented
 
 🧠 Classification Algorithms
-<div align="center"> <table> <tr> <td align="center"> <img src="https://img.shields.io/badge/Decision%20Tree-Ensemble%20Method-0066CC" alt="Decision Tree"> <br><strong>Decision Tree</strong><br>Rule-based classification </td> <td align="center"> <img src="https://img.shields.io/badge/K--NN-Distance%20Based-00AA00" alt="KNN"> <br><strong>K-Nearest Neighbors</strong><br>Instance-based learning </td> <td align="center"> <img src="https://img.shields.io/badge/Naive%20Bayes-Probabilistic-FF8800" alt="Naive Bayes"> <br><strong>Naive Bayes</strong><br>Bayesian classifier </td> </tr> </table>
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Decision%20Tree-Ensemble%20Method-0066CC" alt="Decision Tree">
+<br><strong>Decision Tree</strong><br>Rule-based classification
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/K--NN-Distance%20Based-00AA00" alt="KNN">
+<br><strong>K-Nearest Neighbors</strong><br>Instance-based learning
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Naive%20Bayes-Probabilistic-FF8800" alt="Naive Bayes">
+<br><strong>Naive Bayes</strong><br>Bayesian classifier
+</td>
+</tr>
+</table>
+
 📊 Evaluation Metrics Used
-<table> <tr> <td align="center"> <img src="https://img.shields.io/badge/Accuracy-Classification%20Rate-FFCC00" alt="Accuracy"> <br><strong>Accuracy</strong><br>Overall correctness </td> <td align="center"> <img src="https://img.shields.io/badge/Precision--Recall-Balanced%20Metrics-AA00CC" alt="Precision-Recall"> <br><strong>Precision & Recall</strong><br>Class-wise performance </td> <td align="center"> <img src="https://img.shields.io/badge/ROC--AUC-Discrimination-CC0000" alt="ROC-AUC"> <br><strong>ROC-AUC</strong><br>Model discrimination </td> </tr> </table>
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Accuracy-Classification%20Rate-FFCC00" alt="Accuracy">
+<br><strong>Accuracy</strong><br>Overall correctness
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Precision--Recall-Balanced%20Metrics-AA00CC" alt="Precision-Recall">
+<br><strong>Precision & Recall</strong><br>Class-wise performance
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/ROC--AUC-Discrimination-CC0000" alt="ROC-AUC">
+<br><strong>ROC-AUC</strong><br>Model discrimination
+</td>
+</tr>
+</table>
+
 📈 Model Performance
-<table> <tr> <td align="center"> <img src="https://img.shields.io/badge/Decision%20Tree-85%25%20Accuracy-0066CC" alt="DT Accuracy"> <br><strong>Decision Tree</strong><br>85% accuracy </td> <td align="center"> <img src="https://img.shields.io/badge/KNN-82%25%20Accuracy-00AA00" alt="KNN Accuracy"> <br><strong>KNN</strong><br>82% accuracy </td> <td align="center"> <img src="https://img.shields.io/badge/Naive%20Bayes-78%25%20Accuracy-FF8800" alt="NB Accuracy"> <br><strong>Naive Bayes</strong><br>78% accuracy </td> </tr> </table>
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Decision%20Tree-85%25%20Accuracy-0066CC" alt="DT Accuracy">
+<br><strong>Decision Tree</strong><br>85% accuracy
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/KNN-82%25%20Accuracy-00AA00" alt="KNN Accuracy">
+<br><strong>KNN</strong><br>82% accuracy
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Naive%20Bayes-78%25%20Accuracy-FF8800" alt="NB Accuracy">
+<br><strong>Naive Bayes</strong><br>78% accuracy
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -140,7 +187,7 @@ This academic project explores and compares multiple classification algorithms f
 
 ### **Features Description**
 | Feature | Type | Description | Values |
-|---------|------|-------------|--------|
+|:---:|:---:|:---:|:---:|
 | Disease | Categorical | Type of disease | Various diseases |
 | Fever | Binary | Presence of fever | Yes/No |
 | Cough | Binary | Presence of cough | Yes/No |
@@ -281,7 +328,7 @@ python classification_model_comparison_diseases.py
 
 ### **Model Performance Comparison**
 | Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
-|-------|----------|-----------|--------|----------|---------|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Decision Tree** | **85.2%** | 0.86 | 0.85 | 0.85 | 0.84 |
 | **K-Nearest Neighbors** | 82.1% | 0.82 | 0.82 | 0.82 | 0.81 |
 | **Naive Bayes** | 78.4% | 0.79 | 0.78 | 0.78 | 0.77 |

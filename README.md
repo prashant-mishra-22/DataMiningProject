@@ -36,10 +36,10 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.6%2B-11557C)](https://matplotlib.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626)](https://jupyter.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/prashant-mishra-22/Disease-Classification-Comparison?style=social)](https://github.com/prashant-mishra-22/Disease-Classification-Comparison/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/prashant-mishra-22/Disease-Classification-Comparison?style=social)](https://github.com/prashant-mishra-22/Disease-Classification-Comparison/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/prashant-mishra-22/Disease-Classification-Comparison)](https://github.com/prashant-mishra-22/Disease-Classification-Comparison/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/prashant-mishra-22/Disease-Classification-Comparison)](https://github.com/prashant-mishra-22/Disease-Classification-Comparison/commits/main)
+[![GitHub stars](https://img.shields.io/github/stars/prashant-mishra-22/DataMiningProject?style=social)](https://github.com/prashant-mishra-22/DataMiningProject/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/prashant-mishra-22/DataMiningProject?style=social)](https://github.com/prashant-mishra-22/DataMiningProject/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/prashant-mishra-22/DataMiningProject)](https://github.com/prashant-mishra-22/DataMiningProject/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/prashant-mishra-22/DataMiningProject)](https://github.com/prashant-mishra-22/DataMiningProject/commits/main)
 
 </div>
 

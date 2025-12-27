@@ -551,7 +551,7 @@ The project achieves practical insights into model selection for healthcare appl
 **Course**: B.Sc. (Hons.) Computer Science Semester VI BHCS 17B: Data Mining  
 **Institution**: Keshav Mahavidyalaya, University of Delhi  
 **Supervisor**: Dr. Nidhi Passi  
-**Duration**: January 2024 – May 2024  
+**Duration**: January 2024 – June 2024  
 **Team Size**: 4 Members
 
 ## 🌟 Star this repository if you found it useful!
